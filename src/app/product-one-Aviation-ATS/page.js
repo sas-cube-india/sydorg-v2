@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <>
      <div>
-  <div className="primary-background product-hero text-white position-relative">
+  <div className="primary-background product-hero text-white position-relative" style={{height: '110vh'}}>
     <div className="container">
       <div className="w-75 hero-content">
         <h2 className="fw-700 mb-3">Sydorg enable analytics backed with high success rate decision making</h2>
