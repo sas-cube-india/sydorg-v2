@@ -33,6 +33,14 @@ function Footer() {
                         </div>
                     </div>
                 </div>
+                                    
+                <div className="col-md-12">
+        <div className="py-4 d-flex justify-content-center align-items-center">
+          <a className="mr-4" href="../privacy.html">Privacy &amp; terms</a>
+          <a href="../sitemap.xml">Sitemap</a>
+        </div>
+      </div>
+                                    
             </footer>
         </>
     )
