@@ -83,7 +83,7 @@ export default function Product() {
                             <h2 className="text-center fw-700 mb-5">Our team</h2>
                             <div className="row">
                                 <div className="col-xxl-9 col-xl-9 col-lg-7 col-md-12 col-sm-12 col-12 user-list">
-                                    <div className="row justify-content-center">
+                                    <div className="row">
                                         {
                                             jsonData.map((person, index) => (
                                                 <>
