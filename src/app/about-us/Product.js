@@ -7,7 +7,7 @@ const jsonData = [
     {
         id: '1',
         name: 'Leslie Alexander',
-        img: './images/team-1.png',
+        img: './images/team-1.jpg.png',
         jobProfile: 'CHIEF EXECUTIVE',
         expertise: 'Planning',
         experience: '2',
