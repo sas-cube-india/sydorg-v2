@@ -962,5 +962,6 @@ footer ul li {
 @media only screen and (max-width: 1300px) {
   .product-hero{
     margin-top: 3em;
+    height: 40rem !important;
   }
 }
