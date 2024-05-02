@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #000;
   margin: 0;
 }
@@ -21,11 +21,11 @@ h3 span,
 h4 span,
 h5 span,
 h6 span {
-  color: #0C54A0;
+  color: #0c54a0;
 }
 
 p {
-  font-size: .875rem;
+  font-size: 0.875rem;
   color: #444;
   line-height: 1.75em;
 }
@@ -46,27 +46,27 @@ a {
 }
 
 .primary-background {
-  background-color: #1A599C;
+  background-color: #1a599c;
 }
 
 .primary-button {
   color: #fff;
   background: #000;
   border: 0;
-  border-radius: .5em;
-  padding: .75em 1.75em;
+  border-radius: 0.5em;
+  padding: 0.75em 1.75em;
   font-weight: 500;
 }
 
 .secondary-background {
-  background-color: #F2F2F2;
+  background-color: #f2f2f2;
 }
 
 .secondary-button {
   background: #fff;
   border: 0;
-  border-radius: .5em;
-  padding: .75em 1.75em;
+  border-radius: 0.5em;
+  padding: 0.75em 1.75em;
   font-weight: 500;
 }
 
@@ -74,8 +74,8 @@ a {
   background: #1a599c;
   color: #fff;
   border: 0;
-  border-radius: .5em;
-  padding: .75em 1.75em;
+  border-radius: 0.5em;
+  padding: 0.75em 1.75em;
   font-weight: 500;
 }
 
@@ -83,7 +83,7 @@ a {
 .secondary-button .fa-solid,
 .primary-button .fa-regular,
 .primary-button .fa-solid {
-  margin-left: .25em;
+  margin-left: 0.25em;
 }
 
 /* header */
@@ -94,17 +94,17 @@ header {
 
 .navbar-expand-lg .navbar-nav {
   background-color: #fff;
-  border-radius: 0 0 0 .75em;
+  border-radius: 0 0 0 0.75em;
 }
 
 .navbar-expand-lg .navbar-nav .nav-item {
-  padding: .75em;
-  margin: 0 .5em;
+  padding: 0.75em;
+  margin: 0 0.5em;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-  padding: .5em 1.5em;
-  border-radius: .5em;
+  padding: 0.5em 1.5em;
+  border-radius: 0.5em;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link.active {
@@ -147,7 +147,7 @@ header {
 .hero h2 {
   font-size: 2.75rem;
   font-weight: 800;
-  margin-bottom: .75em;
+  margin-bottom: 0.75em;
   color: #fff;
 }
 
@@ -172,7 +172,7 @@ header {
 
 /* our services */
 .our-services .card {
-  padding: .5em;
+  padding: 0.5em;
   height: 15em;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   border: 0;
@@ -204,19 +204,19 @@ header {
 .our-services .card .img-text {
   position: absolute;
   bottom: 0;
-  padding: 0 .5em;
+  padding: 0 0.5em;
   z-index: 3;
 }
 
 .our-services .card .card-img h3 {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 1rem;
   font-weight: 600;
 }
 
 .our-services .card .img-text p {
-  margin-bottom: .5em;
-  font-size: .675rem;
+  margin-bottom: 0.5em;
+  font-size: 0.675rem;
   color: #fff;
 }
 
@@ -233,18 +233,18 @@ header {
 .why-us-section .section-content {
   background-color: #fff;
   padding: 2.5em;
-  border-radius: 0.5em 5em .5em .5em;
+  border-radius: 0.5em 5em 0.5em 0.5em;
   z-index: 1;
   position: relative;
 }
 
 .why-us-section .section-content h2 {
   font-weight: 600;
-  margin-bottom: .5em;
+  margin-bottom: 0.5em;
 }
 
 .why-us-section .section-content p {
-  font-size: .875rem;
+  font-size: 0.875rem;
   color: #444;
   line-height: 1.75em;
   margin-bottom: 2em;
@@ -279,19 +279,19 @@ header {
 }
 
 .our-intro-section .working-steps-section h3 {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 1rem;
   font-weight: 600;
 }
 
 .our-intro-section .working-steps-section .step-number {
-  background-color: #C7D3DF;
+  background-color: #c7d3df;
   width: 2em;
   display: block;
   height: 2em;
   padding: 0.25em;
   font-size: 1.25em;
-  border-radius: .25em;
+  border-radius: 0.25em;
   text-align: center;
   font-weight: 600;
   margin-right: 1em;
@@ -300,7 +300,7 @@ header {
 .our-intro-section .img-content {
   text-align: center;
   padding: 1.5em 4em;
-  border: .5em solid #fff;
+  border: 0.5em solid #fff;
 }
 
 .our-intro-section .img-content span {
@@ -320,7 +320,7 @@ header {
 .achievements-section h2 {
   font-weight: 600;
   font-size: 2.5rem;
-  margin-bottom: .5em;
+  margin-bottom: 0.5em;
 }
 
 .achievements-section b {
@@ -357,7 +357,7 @@ header {
 }
 
 .blog-section .card {
-  padding: .5em;
+  padding: 0.5em;
   /* height: 20em; */
   height: 100%;
   /* height: 25em; */
@@ -366,17 +366,17 @@ header {
 }
 
 .blog-section .card h3 {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 1rem;
   font-weight: 600;
   margin-top: 1em;
-  border-bottom: 3px solid #FFD05A;
-  padding-bottom: .5em;
+  border-bottom: 3px solid #ffd05a;
+  padding-bottom: 0.5em;
 }
 
 .blog-section .card p {
-  margin-bottom: .5em;
-  font-size: .675rem;
+  margin-bottom: 0.5em;
+  font-size: 0.675rem;
 }
 
 /* news Latter */
@@ -385,21 +385,21 @@ header {
 }
 
 .news-latter span {
-  letter-spacing: .5em;
+  letter-spacing: 0.5em;
   text-transform: uppercase;
-  font-size: .75rem;
+  font-size: 0.75rem;
   margin-bottom: 2em;
   display: block;
-  color: #1A599C;
+  color: #1a599c;
 }
 
 .news-latter label {
-  color: #1A599C;
+  color: #1a599c;
 }
 
 .news-latter input {
   border: 0;
-  border-bottom: 2px solid #1A599C;
+  border-bottom: 2px solid #1a599c;
   border-radius: 0;
 }
 
@@ -407,7 +407,7 @@ header {
   width: 13em;
   border: 0;
   background: #1a599c14;
-  border-radius: .5em;
+  border-radius: 0.5em;
   padding: 1em 1.5em;
   color: #1a599c;
 }
@@ -416,15 +416,15 @@ header {
 footer {
   padding: 5em 0;
   color: #fff;
-  font-size: .875rem;
+  font-size: 0.875rem;
 }
 
 footer h2,
 footer h3 {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   font-size: 1.25rem;
-  letter-spacing: .25em;
+  letter-spacing: 0.25em;
   margin-bottom: 1.25em;
   /* margin-bottom: .5em; */
   font-weight: 700 !important;
@@ -445,7 +445,7 @@ footer h3::after {
 }
 
 footer h3 {
-  font-size: .875rem;
+  font-size: 0.875rem;
 }
 
 footer p {
@@ -470,7 +470,7 @@ footer ul li {
 .our-team-section b {
   color: #fff;
   text-transform: uppercase;
-  letter-spacing: .25em;
+  letter-spacing: 0.25em;
 }
 
 .our-team-section h2 {
@@ -487,8 +487,8 @@ footer ul li {
 }
 
 .our-team-section .user-list .user-info small {
-  font-size: .675rem;
-  letter-spacing: .25em;
+  font-size: 0.675rem;
+  letter-spacing: 0.25em;
   color: #999;
 }
 
@@ -499,8 +499,22 @@ footer ul li {
 .our-team-section .single-user-info li {
   list-style: none;
   color: #777;
-  margin-bottom: .75em;
-  font-size: .875rem;
+  margin-bottom: 0.75em;
+  font-size: 0.875rem;
+}
+
+.our-team-section .single-user-info-1 li {
+  list-style: none;
+  color: #777;
+  margin-bottom: 0.75em;
+  font-size: 0.875rem;
+}
+
+.our-team-section .single-user-info-1 {
+  background: #fff;
+  border-radius: 1em;
+  padding: 1em;
+  margin-bottom: 1rem;
 }
 
 .supervision-section {
@@ -517,10 +531,10 @@ footer ul li {
 .supervision-section .supervision-analyse-section i {
   background: #1a599c;
   color: #fff;
-  padding: .5em;
+  padding: 0.5em;
   font-size: 1.5rem;
-  margin-right: .75em;
-  border-radius: .2em;
+  margin-right: 0.75em;
+  border-radius: 0.2em;
 }
 
 .supervision-section .container-image {
@@ -535,7 +549,7 @@ footer ul li {
   left: 5em;
   width: 100%;
   height: 25em;
-  background-color: #F6F6F9;
+  background-color: #f6f6f9;
   z-index: 0;
 }
 
@@ -581,7 +595,7 @@ footer ul li {
 }
 
 .product-hero .dark-container {
-  border: .75em solid #444;
+  border: 0.75em solid #444;
   border-radius: 2em;
 }
 
@@ -606,11 +620,11 @@ footer ul li {
 }
 
 .product-review i {
-  color: #EDCB50;
+  color: #edcb50;
 }
 
 .product-review b {
-  color: #B8BCC2;
+  color: #b8bcc2;
 }
 
 /* Owl Carousel */
@@ -665,19 +679,19 @@ footer ul li {
 }
 
 .owl-item .slider-card {
-  border-radius: 2em 2em .5em 2em;
+  border-radius: 2em 2em 0.5em 2em;
   padding: 1em;
   background-color: #fff;
   text-align: center;
 }
 
 .slider-card .title {
-  font-size: .875rem;
+  font-size: 0.875rem;
   font-weight: 600;
 }
 
 .slider-card .sub-title {
-  font-size: .75rem;
+  font-size: 0.75rem;
 }
 
 .slider-card img {
@@ -711,189 +725,201 @@ footer ul li {
 
 .customer-review-section h3 {
   text-align: center;
-  color: #0C54A0;
+  color: #0c54a0;
   font-weight: 700;
   margin-top: 1em;
 }
 
 @media only screen and (max-width: 991px) {
   .hero h2 {
-      font-size: 2rem;
+    font-size: 2rem;
   }
 }
 /* Media query for medium screens (e.g., tablets) */
 @media only screen and (max-width: 767px) {
-
   /* Styles specific to medium screens */
   .hero.second-hero .container {
-      z-index: 1;
-      position: relative;
-      top: 0;
-      left: 0;
-      transform: none;
+    z-index: 1;
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: none;
   }
 
   .hero h2 {
-      font-size: 2.5rem;
+    font-size: 2.5rem;
   }
 
   .hero.second-hero h2 {
-      font-size: 2rem;
+    font-size: 2rem;
   }
 
   .hero.second-hero.our-services {
-      height: 100% !important;
+    height: 100% !important;
   }
 
   .why-us-section img {
-      margin-left: 0;
+    margin-left: 0;
   }
 
   .product-hero .dark-container {
-      height: 20em;
+    height: 20em;
   }
 
   .our-offer-section p {
-      line-height: 1.5em;
-      font-size: 1rem !important;
+    line-height: 1.5em;
+    font-size: 1rem !important;
   }
 
   .hero.contact-us-section {
-      height: 100% !important;
+    height: 100% !important;
   }
 
   .hero.contact-us-section .container {
-      z-index: 1;
-      position: relative;
-      top: 0;
-      left: 0;
-      transform: none;
-      padding: 5em 0;
+    z-index: 1;
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: none;
+    padding: 5em 0;
   }
 
   .hero.contact-us-section .contact-form {
-      margin-top: 2em;
+    margin-top: 2em;
   }
 }
 
 /* Media query for medium screens (e.g., tablets) */
 @media only screen and (min-width: 601px) and (max-width: 1024px) {
   /* Styles specific to medium screens */
+  .our-team-section .single-user-info-1 {
+    background: #fff;
+    border-radius: 1em;
+    padding: 1em;
+    margin-bottom: 1rem;
+    display: none;
+  }
 }
 
 /* Media query for large screens (e.g., desktops) */
 @media only screen and (min-width: 1025px) {
   /* Styles specific to large screens */
+  .our-team-section .single-user-info-1 {
+    background: #fff;
+    border-radius: 1em;
+    padding: 1em;
+    margin-bottom: 1rem;
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 600px) {
-
   /* Styles specific to small screens */
   .why-us-section img {
-      margin-left: 0;
-      margin-bottom: 1em;
+    margin-left: 0;
+    margin-bottom: 1em;
   }
 
   .our-intro-section {
-      margin-top: 3em;
+    margin-top: 3em;
   }
 
   .our-intro-section h2 {
-      font-size: 1.5em;
+    font-size: 1.5em;
   }
 
   .our-intro-section button,
   .our-intro-section a {
-      width: 100%;
-      margin: 0;
-      font: .75rem;
+    width: 100%;
+    margin: 0;
+    font: 0.75rem;
   }
 
   .working-steps-section {
-      margin-left: 0 !important;
+    margin-left: 0 !important;
   }
 
   .achievements-section .total-record {
-      margin: 3em 0 !important;
+    margin: 3em 0 !important;
   }
 
   .achievements-section .total-record {
-      margin: 0 !important;
-      width: 100%;
-      padding: 0 1em;
+    margin: 0 !important;
+    width: 100%;
+    padding: 0 1em;
   }
 
   .achievements-section b {
-      font-size: 1.25rem;
+    font-size: 1.25rem;
   }
 
   .achievements-section .total-record p {
-      font-size: .75rem;
-      line-height: 1.25em;
-      padding: 0 1em;
+    font-size: 0.75rem;
+    line-height: 1.25em;
+    padding: 0 1em;
   }
 
   .news-latter .form-field {
-      display: block !important;
+    display: block !important;
   }
 
   .news-latter button {
-      margin: 0 !important;
-      margin-top: 1em !important;
+    margin: 0 !important;
+    margin-top: 1em !important;
   }
 
   .news-latter .news-latter-form {
-      padding: 0 2em;
+    padding: 0 2em;
   }
 
   footer p {
-      padding: 0;
+    padding: 0;
   }
 
   footer .col-md-4 {
-      margin-bottom: 2em;
+    margin-bottom: 2em;
   }
 
   .our-intro-section {
-      padding: 1em;
+    padding: 1em;
   }
 
   .our-intro-section b {
-      /* margin-bottom: 1em; */
-      display: block;
+    /* margin-bottom: 1em; */
+    display: block;
   }
 
   .our-intro-section .image-container {
-      height: 50vh;
+    height: 50vh;
   }
 
   .our-team-section {
-      padding: 2em;
+    padding: 2em;
   }
 
   /* .our-team-section b{
       color: #ddd;
   } */
   .our-team-section .container {
-      padding: 1em;
-      text-align: center;
-      justify-content: center;
-      background-color: transparent !important;
+    padding: 1em;
+    text-align: center;
+    justify-content: center;
+    background-color: transparent !important;
   }
 
   .our-team-section .container .user-info {
-      border-bottom: 1px solid #dedede;
-      background-color: #fff;
-      margin-bottom: 2em;
-      border-radius: 1em;
-      padding: 1em 0;
+    border-bottom: 1px solid #dedede;
+    background-color: #fff;
+    margin-bottom: 2em;
+    border-radius: 1em;
+    padding: 1em 0;
   }
 
   .our-team-section .container .row,
   .our-team-section .container .d-flex {
-      justify-content: center;
-      text-align: center;
-      align-items: center;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
   }
 
   /* .our-team-section .single-user-info {
@@ -902,37 +928,44 @@ footer ul li {
 
   /* product page */
   .product-hero .dark-container {
-      height: 15em;
-      width: 100%;
+    height: 15em;
+    width: 100%;
   }
 
   .our-offer-section h3 {
-      margin-bottom: 1em !important;
+    margin-bottom: 1em !important;
   }
 
   .our-offer-section .request-section {
-      margin-bottom: 3em;
+    margin-bottom: 3em;
   }
 
   .our-offer-section .col-md-12 {
-      text-align: center;
+    text-align: center;
   }
 
   .our-offer-section .col-md-12 button {
-      margin: 0 !important;
+    margin: 0 !important;
   }
 
   .product-review .col-md-4 {
-      margin-bottom: 1em;
-      border-bottom: 1px solid #dedede;
-      padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #dedede;
+    padding-bottom: 1em;
   }
 
   .working-steps-section {
-      padding: 0 1em;
+    padding: 0 1em;
   }
 
   .hero.second-hero.our-services .card {
-      margin-top: 2em !important;
+    margin-top: 2em !important;
+  }
+
+  .user-list {
+    display: none;
+  }
+  .single-user-info {
+    display: none;
   }
 }
